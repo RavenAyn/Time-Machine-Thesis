@@ -3,11 +3,11 @@ Code for honours thesis regarding how to build a time machine. The python code i
 
 
 For the python, sample inputs are given at the bottom of the code. Input metrics in a differential form, i.e. for a basic metric like
-s**2 = x**2 + y**2 + z**2
+s<sup>2</sup> = x<sup>2</sup> + y<sup>2</sup> + z<sup>2</sup>
 
 enter as 
 
-ds**2 = dx**2 + dy**2 + dz**2
+ds<sup>2</sup> = dx<sup>2</sup> + dy<sup>2</sup> + dz<sup>2</sup>
 
 
 For the wolfram enter the metric manually under "ds = ..."
